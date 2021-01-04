@@ -1,5 +1,6 @@
-# CateringScheduring
+# CateringSchedule
 
+Operating System Project / Catering Scheduling
 
 # Project:
 
