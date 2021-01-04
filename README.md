@@ -2,7 +2,7 @@
 
 Operating System Project / Catering Scheduling
 
-# Project:
+# Project
 
 -   There is a party with 10 guests in my house.
 -   I've hired a waiter from a catering company to serve you.
